@@ -1,1 +1,14 @@
-ss 
+w01-170213-21-LR-Read slide about introduction Operating system
+w01-170214-13-LR-Lecturer
+w01-170214-13-LR-Lecturer
+w01-170214-14-LR-Lecturer
+w01-170214-15-PS-Do OS Lab
+w01-170214-15-PS-Do OS Lab
+w01-170215-21-LR-Read slide about scripting
+w01-170215-21-LR-Read slide about scripting
+w01-170216-13-LR-Lecturer
+w01-170216-13-LR-Lecturer
+w01-170216-14-LR-Lecturer
+w01-170216-21-PS-install ubuntu and learn scripting
+w01-170217-18-PS-Do OS Lab
+w01-170217-18-DS-Discussion about OS Lab
