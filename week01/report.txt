@@ -1,0 +1,1 @@
+This task teach me how to make a bash script and use git well
