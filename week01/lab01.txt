@@ -5,3 +5,4 @@ drwxr-xr-x 18 fachrur.rozi51 StafCS 4096 Feb 17 23:47 ..
 -rw-r--r--  1 fachrur.rozi51 StafCS    0 Feb 18 00:37 lab01.txt
 -rwxr-xr-x  1 fachrur.rozi51 StafCS   79 Feb 18 00:34 myscript.sh
 /home/fasilkom/mahasiswa/f/fachrur.rozi51/os171/week01
+Today is 18 Feb 2017 at 01:53:34
